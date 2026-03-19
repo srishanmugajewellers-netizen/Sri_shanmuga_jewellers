@@ -1,4 +1,37 @@
-# Sri_shanmuga_jewellers
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sri Shanmuga Jewellers</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #3a0ca3, #f72585);
+    color: white;
+    text-align: center;
+}
+.card {
+    background: rgba(255,255,255,0.1);
+    margin: 15px auto;
+    padding: 20px;
+    border-radius: 15px;
+    width: 90%;
+    max-width: 400px;
+}
+.phone {
+    color: gold;
+    font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<h1>✨ Sri Shanmuga Jewellers ✨</h1>
+<h3>25 Years of Trust</h3># Sri_shanmuga_jewellers
 Jewellery shop
 <!DOCTYPE html>
 <html lang="en">
@@ -114,4 +147,5 @@ a {
 </div>
 
 </body>
+</html></body>
 </html>
